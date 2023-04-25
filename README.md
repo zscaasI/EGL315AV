@@ -25,7 +25,7 @@ Room 540
 
 ![Alt text](Images/Puppy.jpg)
 
-Left to Right
+
 
 ```mermaid
 graph TD
@@ -38,6 +38,7 @@ A -->D
 
 ```
 
+## Left to Right
 ```mermaid
 graph LR
 
