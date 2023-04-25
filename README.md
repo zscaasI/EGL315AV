@@ -19,3 +19,4 @@ I am at Nanyang
 Block S
 Room 540
 ```
+` sudo rasppi -conf `
