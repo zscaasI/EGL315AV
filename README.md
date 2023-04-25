@@ -20,3 +20,7 @@ Block S
 Room 540
 ```
 ` sudo rasppi -conf `
+
+## This is a Pic of a puppy :
+
+![Alt text](Images/Puppy.jpg)
