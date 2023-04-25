@@ -24,3 +24,26 @@ Room 540
 ## This is a Pic of a puppy :
 
 ![Alt text](Images/Puppy.jpg)
+
+Left to Right
+
+```mermaid
+graph TD
+
+A[Rasberi Pi]--> B[Router]
+
+B--> C[TV]
+D[Sensor] --> A
+A -->D
+
+```
+
+```mermaid
+graph LR
+
+A--> B
+```
+
+
+
+
