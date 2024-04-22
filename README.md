@@ -34,7 +34,7 @@ A[Rasberi Pi]--> B[Router]
 
 B--> C[TV]
 D[Sensor] --> A
-A -->D
+A-->D
 
 ```
 
@@ -43,6 +43,7 @@ A -->D
 graph LR
 
 A--> B
+B--> A
 ```
 
 
